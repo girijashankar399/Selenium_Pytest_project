@@ -1,0 +1,27 @@
+
+2023-07-09 20:43:31,568 :INFO : Pytest_demo.BaseClass : Rahul 
+2023-07-09 20:43:31,569 :INFO : Pytest_demo.BaseClass : rahulsetty.com 
+2023-07-09 20:48:28,808 :INFO : Pytest_demo.BaseClass : Rahul 
+2023-07-09 20:48:28,809 :INFO : Pytest_demo.BaseClass : rahulsetty.com 
+2023-07-09 20:48:40,936 :INFO : Pytest_demo.BaseClass : Rahul 
+2023-07-09 20:48:40,936 :INFO : Pytest_demo.BaseClass : rahulsetty.com 
+2023-07-09 20:49:22,719 :INFO : test_editprofile : Rahul 
+2023-07-09 20:49:22,719 :INFO : test_editprofile : rahulsetty.com 
+2023-07-09 23:35:35,753 :INFO : test_editprofile : Rahul 
+2023-07-09 23:35:35,754 :INFO : test_editprofile : rahulsetty.com 
+2023-07-09 23:35:35,768 :INFO : Pytest_demo.test_logging : Information statement 
+2023-07-09 23:35:35,768 :WARNING : Pytest_demo.test_logging : warning statement 
+2023-07-09 23:35:35,768 :ERROR : Pytest_demo.test_logging : Error statement 
+2023-07-09 23:35:35,768 :CRITICAL : Pytest_demo.test_logging : Statement 
+2023-07-09 23:38:53,555 :INFO : test_editprofile : Rahul 
+2023-07-09 23:38:53,555 :INFO : test_editprofile : rahulsetty.com 
+2023-07-09 23:38:53,571 :INFO : Pytest_demo.test_logging : Information statement 
+2023-07-09 23:38:53,571 :WARNING : Pytest_demo.test_logging : warning statement 
+2023-07-09 23:38:53,571 :ERROR : Pytest_demo.test_logging : Error statement 
+2023-07-09 23:38:53,571 :CRITICAL : Pytest_demo.test_logging : Statement 
+2023-07-09 23:42:00,801 :INFO : test_editprofile : Rahul 
+2023-07-09 23:42:00,802 :INFO : test_editprofile : rahulsetty.com 
+2023-07-09 23:42:00,818 :INFO : Pytest_demo.test_logging : Information statement 
+2023-07-09 23:42:00,818 :WARNING : Pytest_demo.test_logging : warning statement 
+2023-07-09 23:42:00,818 :ERROR : Pytest_demo.test_logging : Error statement 
+2023-07-09 23:42:00,818 :CRITICAL : Pytest_demo.test_logging : Statement 
