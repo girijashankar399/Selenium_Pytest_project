@@ -19,9 +19,6 @@ print("Hello Hi I have updated the code")
 
 
 
-
-
-
 time.sleep(2)
 driver.find_element(By.XPATH, "//input[@class='r4vIwl BV+Dqf']").send_keys("raghav@gmail.com")
 
